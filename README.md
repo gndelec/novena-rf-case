@@ -2,7 +2,17 @@
 
 ![A Novena board with Myriad RF Module fitted in a NRFC-01 case](/images/CompletedAssemblyISOPorts-DSC_1955.jpg)
 
-The NRFC-01 kit is a simple but elegant case based on the "[sick of beige](http://dangerousprototypes.com/docs/Sick_of_Beige_basic_case_v1)" design and includes a DC fan to keep the [Novena](http://www.kosagi.com/w/index.php?title=Novena_Main_Page) board cool. It can be bought from [Ground Electronics](http://groundelectronics.com).
+An acrylic enclosure designed to accommodate the [Novena](https://www.crowdsupply.com/kosagi/novena) mainboard plus [Novena-RF module](http://groundelectronics.com/products/novena-rf). Features include:
+
+* U.FL to panel mounted SMA connector cables for TX and RX
+* Cut-outs for access to FPGA JTAG and UART headers
+* Array of M3 mounting holes with "Peek" compatible spacing
+* High quality ebm-papst DC fan with additional decoupling
+* Mountings for a 2.5" HDD/SSD
+* FPGA heatsink
+* Labelled ports
+
+A complete kit of parts can be bought from [Ground Electronics](http://groundelectronics.com/products/novena-novena-rf-case-kit).
 
 ## Repository contents
 
